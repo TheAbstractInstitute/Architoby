@@ -1,5 +1,3 @@
 hello
 
-![you got got]([[http://url/to/img.png](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif](https://camo.githubusercontent.com/f7e5c202a7a20a78c20bf636e19c069d800ca9d0150995bf43f44d4c64435aeb/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466d65646961302e67697068792e636f6d2532466d656469612532465a4535446d43714e4d723379445871315a75253246736f757263652e67696626663d31266e6f66623d31)))
-
-![you got got]([http://url/to/img.png](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif))
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FZE5DmCqNMr3yDXq1Zu%2Fsource.gif&amp;f=1&amp;nofb=1">
